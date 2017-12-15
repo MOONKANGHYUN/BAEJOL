@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  code: 1
+  ps_date: 2017-11-29
+  expir_date: 2017-11-29
+  quantity: 1
+  take_time: 1
+  is_take: false
+  is_keep: false
+  is_alarm: false
+  status: 1
+  user: one
+  prescription: one
+
+two:
+  title: MyString
+  code: 1
+  ps_date: 2017-11-29
+  expir_date: 2017-11-29
+  quantity: 1
+  take_time: 1
+  is_take: false
+  is_keep: false
+  is_alarm: false
+  status: 1
+  user: two
+  prescription: two

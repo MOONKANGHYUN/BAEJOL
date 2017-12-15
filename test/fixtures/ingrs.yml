@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  medicine: one
+  name: MyString
+  qnt: MyString
+  integer: MyString
+
+two:
+  medicine: two
+  name: MyString
+  qnt: MyString
+  integer: MyString
